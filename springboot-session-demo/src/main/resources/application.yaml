@@ -1,0 +1,13 @@
+server:
+  port: 1234
+#  servlet:
+#    cookie:
+#      name: SESSION
+#      use-base64-encoding:  false
+#      http-only: false
+
+spring:
+  redis:
+    host: 10.10.101.119
+    port: 6379
+
